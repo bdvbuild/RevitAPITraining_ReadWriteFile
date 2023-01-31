@@ -5,6 +5,6 @@
 		<AddInId>1F7F4112-6970-4487-9052-D103040FE6B9</AddInId>
 		<FullClassName>RevitAPITraining_WriteToTextFile.Main</FullClassName>
 		<VendorId>bdvbuild</VendorId>
-		<Text>4.1 Запись данных в текстовый файл</Text>
+		<Text>4 Запись/чтение данных. Текстовый файл</Text>
 	</AddIn>
 </RevitAddIns>
