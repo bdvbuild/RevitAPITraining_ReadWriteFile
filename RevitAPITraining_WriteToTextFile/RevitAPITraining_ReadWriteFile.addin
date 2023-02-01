@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Doc\RevitApi\RevitAPITraining_ReadWriteFile.dll"</Assembly>
+		<AddInId>05B2165F-B7A5-40C6-8F4F-934FD6DF9821</AddInId>
+		<FullClassName>RevitAPITraining_ReadWriteFile.Main</FullClassName>
+		<VendorId>bdvbuild</VendorId>
+		<Text>4 Запись/чтение данных из файла</Text>
+	</AddIn>
+</RevitAddIns>
